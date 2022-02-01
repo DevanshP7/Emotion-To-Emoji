@@ -1,0 +1,45 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam_div , #result_div
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.emotion_name
+{
+  font-size: 40px;
+  color: #000;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  border-radius: 20px;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+label{
+  font-size: 20px;
+  border-radius: 10px;
+  background-color:aliceblue;
+  color:rgb(0, 89, 255);
+  box-shadow: 3px 3px 3px grey;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+#motivational_q_1, #motivational_q_2{
+  font-size: 20px;
+  color: coral;
+  font-family: sans-serif;
+}
